@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PWD</string>
+    <string name="button_text">打开二维码扫描</string>
+    <string name="result">Result</string>
+</resources>
